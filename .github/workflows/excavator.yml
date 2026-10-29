@@ -1,4 +1,5 @@
 name: Excavator
+# Updates bucket/*.json to each new mcp-warden release via checkver / autoupdate.
 
 on:
   workflow_dispatch:
